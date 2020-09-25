@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/kelsonmartins/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://twitter.com/iamkelson"><img src="https://img.shields.io/twitter/follow/iamkelson?label=Twitter&style=social" alt="Twitter"></a>
 
 <!--
