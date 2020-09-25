@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://twitter.com/iamkelson"><img src="https://img.shields.io/twitter/follow/iamkelson?label=Twitter&style=social" alt="Twitter"></a>
+
 <!--
 **kelson-martins/kelson-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
