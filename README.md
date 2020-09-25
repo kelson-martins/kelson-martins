@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-<p align="center">
-  
+<p align="center">  
   <a href="https://github.com/kelson-martins"><img src="https://img.shields.io/github/followers/kelson-martins.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href href="https://stackoverflow.com/users/3138106/kelson-martins"><img src="https://img.shields.io/stackexchange/stackoverflow/r/3138106?style=plastic"></a>  
   <a href="https://www.linkedin.com/in/kelsonmartins/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/iamkelson"><img src="https://img.shields.io/twitter/follow/iamkelson?label=Twitter&style=social" alt="Twitter"></a>
-
+  <a href="https://twitter.com/iamkelson"><img src="https://img.shields.io/twitter/follow/iamkelson?label=Twitter&style=social" alt="Twitter"></a>  
 </p>
 
 <!--
